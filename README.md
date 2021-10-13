@@ -32,12 +32,6 @@ Code will be available soon.
 
 
 
-### Visualization
-
-![img](img/visualization.png)
-
-
-
 ## Citation
 
 ```
